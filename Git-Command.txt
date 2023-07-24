@@ -31,3 +31,6 @@ git commit -m "Added Git Command into the file"
 # Push changes to GitHub 
 
 git push origin main
+
+# Fetch and merger changes on directory 
+git pull origin main
