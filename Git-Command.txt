@@ -1,0 +1,33 @@
+
+# 01. Configurations 
+
+git config --global user.name "Hasan Mahmud"
+
+git config --global user.email "hasan@gmail.com"
+
+
+# New Repository - Git 
+
+git init 
+
+# Changed Status 
+
+git status # To see all changed files 
+
+# Copy local Repository
+
+git clone https://github.com/CodeMechanix/PYTH-Batch-N232-1.git
+
+# Add files 
+
+git add . [All files]
+
+git add fileName 
+
+# Git Commit Message 
+
+git commit -m "Added Git Command into the file"
+
+# Push changes to GitHub 
+
+git push origin main
