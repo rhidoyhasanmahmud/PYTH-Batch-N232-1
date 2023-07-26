@@ -1,4 +1,4 @@
-# PYTH-Batch-N232-1
+# PYTH-Batch-N232-1 [Git Class]
 
 eShikhon PYTH-Batch-N232-1
 
